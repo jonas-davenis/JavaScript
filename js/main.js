@@ -48,3 +48,36 @@ if (n1 > n2) {
     console.log('bandykite dar karta');
 
 }
+
+if (n1 >= n2) {
+
+    console.log('pomidoras');
+
+} else {
+
+    console.log('bandykite dar karta');
+
+}
+if (n1 <= n2) {
+
+    console.log('pomidoras');
+
+} else {
+
+    console.log('bandykite dar karta');
+
+}
+if (n1 == n2) {
+
+    console.log('pomidoras');
+
+} else {
+
+    console.log('bandykite dar karta');
+
+
+}
+
+console.log(t1.length);
+console.log(t2.length);
+console.log(t3);
