@@ -80,4 +80,4 @@ if (n1 == n2) {
 
 console.log(t1.length);
 console.log(t2.length);
-console.log(t3);
+console.log(t3.length);
