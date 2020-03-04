@@ -81,3 +81,59 @@ if (n1 == n2) {
 console.log(t1.length);
 console.log(t2.length);
 console.log(t3.length);
+
+if (t1 < t2) {
+
+    console.log('pomidoras');
+
+} else {
+
+console.log('Bandykite dar karta');
+}
+if (t1 > t2) {
+
+    console.log('pomidoras');
+
+} else {
+
+console.log('Bandykite dar karta');
+
+}
+if (t1 == t2) {
+
+    console.log('pomidoras');
+
+} else {
+
+console.log('Bandykite dar karta');
+
+}
+
+if (t1 != t2) {
+
+    console.log('pomidoras');
+
+} else {
+
+console.log('Bandykite dar karta');
+
+}
+
+if (t1 <= t2) {
+
+    console.log('pomidoras');
+
+} else {
+
+console.log('Bandykite dar karta');
+
+}
+
+if (t1 >= t2) {
+
+    console.log('pomidoras');
+
+} else {
+
+console.log('Bandykite dar karta');
+}
