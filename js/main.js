@@ -26,8 +26,9 @@ console.log('---------- DIENOS');
 
 const dienos = [31, 28, 31, 30, 31, 30, 31, 30, 31, 30, 31, 30];
 
-for ( let m=0; m<=12; m++ ) {
-    for ( let d=1; d<=[m]; d++ ) {
+
+for ( let m=0; m< 12; m++ ) {
+    for ( let d=0; d<=[m]; d++ ) {
         console.log( m, + ':' + d );
     }
 }
